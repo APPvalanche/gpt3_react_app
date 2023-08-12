@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gpt3_react_app/static/css/main.74836930.css",
+    "main.js": "/gpt3_react_app/static/js/main.0c82cb59.js",
+    "static/media/ai.png": "/gpt3_react_app/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/gpt3_react_app/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/people.png": "/gpt3_react_app/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/gpt3_react_app/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/gpt3_react_app/index.html",
+    "main.74836930.css.map": "/gpt3_react_app/static/css/main.74836930.css.map",
+    "main.0c82cb59.js.map": "/gpt3_react_app/static/js/main.0c82cb59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74836930.css",
+    "static/js/main.0c82cb59.js"
+  ]
+}
